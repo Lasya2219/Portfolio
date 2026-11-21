@@ -72,9 +72,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const words = [
             "AI Enthusiast",
             "Generative AI & Agent Developer",
-            "Full-Stack Engineer",
-            "Tech Lead @ E-Cell IARE",
-            "RAG & LLM Architect"
         ];
         let wordIndex = 0;
         let charIndex = 0;
